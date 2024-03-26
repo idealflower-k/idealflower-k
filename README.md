@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 # Hi👋, I'm SangHwa Lee
 
+A developer who values consideration and respect
+
 ![Static Badge](https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white&labelColor=black) <a href="https://www.linkedin.com/in/sanghwa-lee-aba7a1265/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a> ![Static Badge](https://img.shields.io/badge/l.s.h021197%40gmail.com-%23EA4335?style=flat-square&logo=gmail&logoColor=white)
 
 ## 💪 Skills
