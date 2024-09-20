@@ -20,15 +20,18 @@ A developer who values consideration and respect
 
 ## 💪 Skills
 ### :computer: Languages
-![Static Badge](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white) ![Static Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white) ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white) ![Static Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white) ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/Java-icon?style=flat-square&color=FF3333)
+
 
 ### :hammer_and_wrench: Tools
-![Static Badge](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Static Badge](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white) ![Static Badge](https://img.shields.io/badge/Amazon%20Ec2-FF9900?style=flat-square&logo=amazonec2&logoColor=white) ![Static Badge](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Static Badge](https://img.shields.io/badge/PostgrSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Static Badge](https://img.shields.io/badge/Socket.io-%23010101?style=flat-square&logo=socket.io&logoColor=white) ![Static Badge](https://img.shields.io/badge/insomnia-%234000BF?style=flat-square&logo=insomnia&logoColor=white)
-
-![Static Badge](https://img.shields.io/badge/zsh-000000?style=flat-square&logo=iterm2&logoColor=white) ![Static Badge](https://img.shields.io/badge/bash-%234EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) 
+![Static Badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=FFFFFF) ![Static Badge](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+<br>
+![Static Badge](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Static Badge](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white) ![Static Badge](https://img.shields.io/badge/Amazon%20Ec2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+<br>
+![Static Badge](https://img.shields.io/badge/zsh-000000?style=flat-square&logo=iterm2&logoColor=white) ![Static Badge](https://img.shields.io/badge/bash-%234EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Static Badge](https://img.shields.io/badge/Intellij%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=FFFFFF)
 
 ### :memo: 협업 Tools
-![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white) ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white) ![Static Badge](https://img.shields.io/badge/Jira-%230052CC?style=flat-square&logo=jira&logoColor=white) ![Static Badge](https://img.shields.io/badge/Notion-%23000000?style=flat-square&logo=notion&logoColor=%23000000&color=white)
+![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white) ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white) ![Static Badge](https://img.shields.io/badge/Jira-%230052CC?style=flat-square&logo=jira&logoColor=white) ![Static Badge](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=FFFFFF&labelColor=172B4D) ![Static Badge](https://img.shields.io/badge/Notion-%23000000?style=flat-square&logo=notion&logoColor=%23000000&color=white)
 
 
 
